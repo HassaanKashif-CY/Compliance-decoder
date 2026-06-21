@@ -5,3 +5,7 @@ pypdf
 google-generativeai
 pydantic
 python-multipart
+streamlit
+pymupdf
+google-generativeai
+reportlab
