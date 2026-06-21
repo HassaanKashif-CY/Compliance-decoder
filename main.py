@@ -15,7 +15,7 @@ from pypdf import PdfReader
 from pydantic import BaseModel
 import google.generativeai as genai
 from google.api_core.exceptions import ResourceExhausted, ServiceUnavailable
-from dotenv import load_dotenv
+
 
 load_dotenv()
 
