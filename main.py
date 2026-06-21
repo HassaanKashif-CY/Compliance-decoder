@@ -17,7 +17,6 @@ import google.generativeai as genai
 from google.api_core.exceptions import ResourceExhausted, ServiceUnavailable
 
 
-load_dotenv()
 
 app = FastAPI()
 
