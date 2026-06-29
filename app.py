@@ -167,7 +167,7 @@ into a strict JSON structure for the Sahl GRC platform.
 
 RULES:
 - Intelligently detect hierarchy: GDPR=Chapter/Article, NCNICC/ECC=Domain/Sub-domain/Control,
-  ISO 27001=Clause/Control, PDPL=Chapter/Article, NCA=Domain/Sub-domain.
+  ISO 27001=Clause/Control, PDPL=Chapter/Article, NCA=Domain/Sub-domain (these are just examples you should detect yourself according to the uploaded pdf).
 - Preserve ALL Arabic text exactly. Do NOT translate.
 - If a field is absent use empty string "".
 - action_list: suggest 2-3 realistic policy documents/evidence items needed to comply.
