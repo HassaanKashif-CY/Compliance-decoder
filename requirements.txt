@@ -9,3 +9,4 @@ streamlit
 pymupdf
 google-generativeai
 reportlab
+supabase
